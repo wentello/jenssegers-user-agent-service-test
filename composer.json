@@ -1,0 +1,19 @@
+{
+    "name": "wentello/jenssegers-user-agent-service-test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vitaliy"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Hillel\\UserAgent\\Test\\": "./src"
+        }
+    },
+    "require": {
+        "jenssegers/agent": "^2.6"
+    }
+}
