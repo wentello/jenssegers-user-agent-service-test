@@ -1,6 +1,6 @@
 <?php
 
-namespace Hillel\UserAgent\Test;
+namespace Hillel\UserAgentJenssegers\Test;
 
 
 use Jenssegers\Agent\Agent;

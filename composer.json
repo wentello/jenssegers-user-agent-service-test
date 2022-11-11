@@ -10,7 +10,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Hillel\\UserAgent\\Test\\": "./src"
+            "Hillel\\UserAgentJenssegers\\Test\\": "./src"
         }
     },
     "require": {
