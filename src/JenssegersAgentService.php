@@ -4,6 +4,7 @@ namespace Hillel\UserAgentJenssegers\Test;
 
 
 use Jenssegers\Agent\Agent;
+use Hillel\AgentUser\Test\UserAgentInterface;
 
 class JenssegersAgentService implements UserAgentInterface
 {

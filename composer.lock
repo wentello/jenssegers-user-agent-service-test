@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "594866e813e2d0bc635010a374f73da0",
+    "content-hash": "36405840ec44d3569a1dc2edf8ab1296",
     "packages": [
         {
             "name": "jaybizzle/crawler-detect",
@@ -196,6 +196,41 @@
                 "source": "https://github.com/serbanghita/Mobile-Detect/tree/2.8.41"
             },
             "time": "2022-11-08T18:31:26+00:00"
+        },
+        {
+            "name": "wentello/user-agent-interface-test",
+            "version": "v1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/wentello/user-agent-interface-test.git",
+                "reference": "17fb84b7658b4a2b5e5627bce62feef6bc19f79b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/wentello/user-agent-interface-test/zipball/17fb84b7658b4a2b5e5627bce62feef6bc19f79b",
+                "reference": "17fb84b7658b4a2b5e5627bce62feef6bc19f79b",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Hillel\\AgentUser\\Test\\": "./src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "vitaliy"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/wentello/user-agent-interface-test/issues",
+                "source": "https://github.com/wentello/user-agent-interface-test/tree/v1.0"
+            },
+            "time": "2022-11-12T08:59:54+00:00"
         }
     ],
     "packages-dev": [],
